@@ -8,8 +8,8 @@
   "author": "Gaëtan Renaudeau <renaudeau.gaetan@gmail.com>",
   "license": "ISC",
   "dependencies": {
-    "react": "^15.5.0",
-    "react-dom": "^15.3.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
     "multi-slider": "file:.."
   },
   "devDependencies": {
