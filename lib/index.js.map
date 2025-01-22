@@ -1,0 +1,1 @@
+{"version":3,"sources":["../src/index.js"],"names":["values"],"mappings":";;;;;;AAAA;;;;AACA;;;;;;kBACe,qDAA4B,EAAEA,QAAQ,UAAV,EAA5B,C","file":"index.js","sourcesContent":["import MultiSlider from \"./MultiSlider\";\nimport uncontrollable from \"uncontrollable\";\nexport default uncontrollable(MultiSlider, { values: \"onChange\" });\n"]}

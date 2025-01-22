@@ -1,0 +1,1 @@
+{"version":3,"sources":["../src/useTouches.js"],"names":["_touches","window"],"mappings":";;;;;AAAA,IAAIA,WAAW,OAAOC,MAAP,KAAkB,WAAlB,IAAiC,kBAAkBA,MAAlE;;kBACe;AAAA,SAAMD,QAAN;AAAA,C","file":"useTouches.js","sourcesContent":["var _touches = typeof window !== \"undefined\" && \"ontouchstart\" in window;\nexport default () => _touches;\n"]}
